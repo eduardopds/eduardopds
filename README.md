@@ -7,6 +7,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-pereiraedu16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pereiraedu16@gmail.com)](mailto:pereiraedu16@gmail.com)
 
 🎓 Graduating in Computer Science from the Federal University of Campina Grande
+💻 PD&I Júnior at Virtus
+computer Passionate on challenges and programming
+
+
 
 
 <a href="https://github.com/eduardopds/github-readme-statst">
