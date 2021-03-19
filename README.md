@@ -19,6 +19,6 @@
 </a>
 
 <a href="https://github.com/eduardopds/github-readme-stats">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalytabdn&hide=jupyter%20notebook,html&layout=compact&theme=dark" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopds&hide=jupyter%20notebook,html&layout=compact&theme=dark" />
 </a><br><br><br><br><br><br><br><br>
 <br>
