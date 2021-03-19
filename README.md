@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi there, I'm Eduardo
+  👋
+</h1>
 
-<!--
-**eduardopds/eduardopds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-pereira-b2a698180/)](https://www.linkedin.com/in/eduardo-pereira-b2a698180/)
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-pereiraedu16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pereiraedu16@gmail.com)](mailto:pereiraedu16@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduating in Computer Science from the Federal University of Campina Grande
+
+
+<a href="https://github.com/eduardopds/github-readme-statst">
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=eduardopds&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/eduardopds/github-readme-stats">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalytabdn&hide=jupyter%20notebook,html&layout=compact&theme=dark" />
+</a><br><br><br><br><br><br><br><br>
+<br>
